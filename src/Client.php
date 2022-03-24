@@ -40,6 +40,8 @@ class Client extends AbstractClient
     {
         return Http::withOptions([
             'allow_redirects' => false,
-        ])->withToken($this->getAccessToken());
+        ])
+            ->acceptJson()
+            ->withToken($this->getAccessToken());
     }
 }
