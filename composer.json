@@ -1,0 +1,30 @@
+{
+    "name": "onlime/laravel-bexio-api-client",
+    "description": "Client library for Bexio API using Laravel HTTP Client",
+    "keywords": [
+        "onlime",
+        "bexio-api-client",
+        "bexio-api-php-client",
+        "bexio",
+        "laravel",
+        "HTTP Client"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Philip Iezzi",
+            "email": "philip@onlime.ch"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "onlime/bexio-api-client": "^0.4",
+        "laravel/framework": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelBexio\\": "src/LaravelBexio"
+        }
+    }
+}
