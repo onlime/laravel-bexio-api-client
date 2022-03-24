@@ -1,4 +1,5 @@
 <?php
+
 namespace LaravelBexio;
 
 use Bexio\AbstractClient;
