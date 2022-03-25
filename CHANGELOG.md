@@ -1,6 +1,8 @@
 # CHANGELOG
 
-## [0.1.x (Unreleased)](https://github.com/onlime/laravel-bexio-api-client/compare/0.1.0...main)
+## [0.1.x (Unreleased)](https://github.com/onlime/laravel-bexio-api-client/compare/0.1.1...main)
+
+- Added `Sample Usage` documentation to README for recommended Laravel project integration.
 
 ## [0.1.1 (2022-03-25)](https://github.com/onlime/laravel-bexio-api-client/compare/0.1.0...0.1.1)
 

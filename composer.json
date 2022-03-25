@@ -22,6 +22,9 @@
         "onlime/bexio-api-client": "^0.4",
         "laravel/framework": "^9.5"
     },
+    "suggest": {
+        "onlime/laravel-http-client-global-logger": "A zero-configuration logger for Laravel HTTP Client"
+    },
     "autoload": {
         "psr-4": {
             "LaravelBexio\\": "src/"
