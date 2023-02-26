@@ -1,6 +1,10 @@
 # CHANGELOG
 
-## [0.1.x (Unreleased)](https://github.com/onlime/laravel-bexio-api-client/compare/0.1.1...main)
+## [0.1.x (Unreleased)](https://github.com/onlime/laravel-bexio-api-client/compare/0.1.2...main)
+
+- 
+
+## [0.1.2 (2023-02-26)](https://github.com/onlime/laravel-bexio-api-client/compare/0.1.1...0.1.2)
 
 - Added `Sample Usage` documentation to README for recommended Laravel project integration.
 - Drop PHP 8.0 support

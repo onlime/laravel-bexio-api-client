@@ -23,7 +23,7 @@
         "laravel/framework": "^9.0 || ^10.0"
     },
     "require-dev": {
-        "laravel/pint": "^1.5"
+        "laravel/pint": "^1.6"
     },
     "suggest": {
         "onlime/laravel-http-client-global-logger": "A zero-configuration logger for Laravel HTTP Client"
