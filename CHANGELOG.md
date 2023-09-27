@@ -1,8 +1,14 @@
 # CHANGELOG
 
-## [0.1.x (Unreleased)](https://github.com/onlime/laravel-bexio-api-client/compare/0.1.2...main)
+## [0.2.x (Unreleased)](https://github.com/onlime/laravel-bexio-api-client/compare/0.2.0...main)
 
 - 
+
+## [0.2.0 (2023-09-27)](https://github.com/onlime/laravel-bexio-api-client/compare/0.1.2...0.2.0)
+
+- Drop PHP 8.1 support
+- Drop Laravel 9 support
+- Use method return types
 
 ## [0.1.2 (2023-02-26)](https://github.com/onlime/laravel-bexio-api-client/compare/0.1.1...0.1.2)
 
